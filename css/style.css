@@ -24,6 +24,7 @@ body {
   width: 95%;
   margin: 0 auto;
   background-color: #ECE2D0 ;
+  min-width: 350px;
 }
 
 header, footer {
